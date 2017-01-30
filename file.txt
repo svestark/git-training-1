@@ -1,3 +1,4 @@
 this is our first info
 this is a second line
+something new has been inserted here (branch-1)
 I'm the second developer!
