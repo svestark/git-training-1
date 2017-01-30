@@ -1,3 +1,4 @@
 this is our first info
 this is a second line
+this is going to trigger a conflict - maybe
 I'm the second developer!
